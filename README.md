@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louis Venhoff</h1>
 <h3 align="center">A passionate software developer from Germany</h3>
 
-- 🔭 I’m currently working on **ARCLight**
+- 🔭 I’m currently working on **CleverChop**
 
 - 🌱 I’m currently learning **To get more efficiency in React**
 
